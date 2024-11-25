@@ -6,7 +6,7 @@
 Adafruit_BMP280 bmp;
 
 int status;
-# hackd 
+// hakd
 void setup() {
   while (!Serial);
   Serial.begin(9600);
